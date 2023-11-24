@@ -17,6 +17,11 @@ This was my first attempt at designing a PCB in kicad.
 ![image](https://github.com/asssaf/pwm-breakout-phat/assets/445552/9c86cfea-85a6-4fbd-bb00-8d6bab838621)
 
 ## PCB
+![breakout_front](https://github.com/asssaf/pwm-breakout-phat/assets/445552/b4fd969f-b086-45a4-8af5-0424d37bb7d2)
+![breakout_back](https://github.com/asssaf/pwm-breakout-phat/assets/445552/71b862d1-e58b-4157-89b3-c7594aa0feab)
+
+
+
 <img src="https://github.com/asssaf/pwm-breakout-phat/assets/445552/d1748a43-8422-45ef-a861-9130384fb440" width="510" />
 
 <img src="https://github.com/asssaf/pwm-breakout-phat/assets/445552/fb6683cd-17f2-46c5-b49e-caedf715c5b0" width="512" />
