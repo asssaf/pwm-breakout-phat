@@ -9,6 +9,10 @@ The board also has a couple of STEMMA-QT connectors for I2C convenience.
 
 This was my first attempt at designing a PCB in kicad.
 
+## Schematic
+![image](https://github.com/asssaf/pwm-breakout-phat/assets/445552/9c86cfea-85a6-4fbd-bb00-8d6bab838621)
+
+## PCB
 <img src="https://github.com/asssaf/pwm-breakout-phat/assets/445552/d1748a43-8422-45ef-a861-9130384fb440" width="510" />
 
 <img src="https://github.com/asssaf/pwm-breakout-phat/assets/445552/fb6683cd-17f2-46c5-b49e-caedf715c5b0" width="512" />
